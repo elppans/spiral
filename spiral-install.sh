@@ -1,3 +1,3 @@
 #!/bin/bash
 
-bash spiral_knights.bin "$*"
+bash spiral-install.bin "$*"
